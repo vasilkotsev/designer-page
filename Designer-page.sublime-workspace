@@ -1,0 +1,596 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"le",
+				"length"
+			],
+			[
+				"for",
+				"for\tfor (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"cycle",
+				"cycle\tfor"
+			],
+			[
+				"cy",
+				"cycle\tfor"
+			],
+			[
+				"deb",
+				"debugger"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"ca",
+				"calcBottlesBoxes"
+			],
+			[
+				"f",
+				"for\tfor"
+			],
+			[
+				"if",
+				"ife\tif … else"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"box-s",
+				"box-sizing"
+			],
+			[
+				"paddig",
+				"padding-right"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"c",
+				"cover"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"Snippet: ",
+				"Snippet: blocktrans"
+			],
+			[
+				"Snippet: co",
+				"Snippet: comment"
+			],
+			[
+				"Snippet: js",
+				"Snippet: Object Value JS"
+			],
+			[
+				"gi",
+				"Git: Status"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: sa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: s",
+				"Package Control: List Packages"
+			],
+			[
+				"SASS",
+				"Set Syntax: AppleScript"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 163.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/kurs/WeatherApp",
+		"/C/xampp/htdocs/kurs/WeatherApp/assets",
+		"/C/xampp/htdocs/kurs/WeatherApp/assets/less",
+		"/C/xampp/htdocs/kurs/WeatherApp/assets/styles"
+	],
+	"file_history":
+	[
+		"/C/Users/Vasko/Desktop/JS for Front-end course/bootstrap.html",
+		"/C/xampp/htdocs/kurs/WeatherApp/assets/less/styles.less",
+		"/C/Users/Vasko/Desktop/bootstrap-test.html",
+		"/C/xampp/htdocs/kurs/Designer-page/index.html",
+		"/C/Users/Vasko/Desktop/bootstrap.html",
+		"/C/xampp/htdocs/kurs/WeatherApp/index.html",
+		"/C/xampp/htdocs/kurs/WeatherApp/assets/fonts/Ubuntu_Bold/Ubuntu-Bold.eot",
+		"/C/xampp/htdocs/kurs/Designer-page/assets/less/styles.less",
+		"/C/Users/Vasko/AppData/Local/Temp/Temp1_css-circle.zip/css-circle/css/circle.css",
+		"/C/xampp/htdocs/kurs/Designer-page/assets/images/city-bg-skew.jpg",
+		"/C/xampp/htdocs/kurs/Golden_theme/assets/less/styles.less",
+		"/C/xampp/htdocs/kurs/Golden_theme/index.html",
+		"/C/xampp/htdocs/kurs/Designer-page/assets/images/logo-1.png",
+		"/C/xampp/htdocs/kurs/Designer-page/assets/styles/fonts.css",
+		"/C/xampp/htdocs/kurs/Designer-page/assets/fonts/Raleway_Bold/stylesheet.css",
+		"/C/xampp/htdocs/kurs/Designer-page/assets/images/user-photo.jpg",
+		"/C/xampp/htdocs/kurs/Slice'n'Dice_online_shop-Modeteka/index.html",
+		"/C/xampp/htdocs/kurs/Slice'n'Dice_online_shop-Modeteka/styles/styles.less",
+		"/C/xampp/htdocs/kurs/Slice'n'Dice_online_shop-Modeteka/less.js",
+		"/C/xampp/htdocs/kurs/Designer-page/assets/fonts/Raleway_Medium/stylesheet.css",
+		"/C/xampp/htdocs/kurs/Designer-page/assets/fonts/Raleway/stylesheet.css",
+		"/C/xampp/htdocs/kurs/Designer-page/assets/fonts/Open_Sans_Bold/stylesheet.css",
+		"/C/xampp/htdocs/kurs/Designer-page/assets/fonts/Open_Sans/stylesheet.css",
+		"/C/xampp/htdocs/kurs/WeatherApp/assets/fonts/Ubuntu/stylesheet.css",
+		"/C/xampp/htdocs/kurs/Designer-page/assets/fonts/Aller_Display/stylesheet.css",
+		"/C/xampp/htdocs/kurs/WeatherApp/assets/styles/fonts.css",
+		"/C/xampp/htdocs/kurs/Designer-page/assets/fonts/Aller_Display/demo-files/demo.css",
+		"/C/xampp/htdocs/kurs/Slice'n'Dice_online_shop-Modeteka/test1.html",
+		"/C/xampp/htdocs/kurs/WeatherApp/assets/styles/sticky_footer_styles.css",
+		"/C/xampp/htdocs/kurs/Slice'n'Dice_online_shop-Modeteka/styles/sticky_footer_styles.css",
+		"/C/xampp/htdocs/kurs/Golden_theme/assets/styles/sticky_footer_styles.css",
+		"/C/xampp/htdocs/kurs/Designer-page/Designer-page.sublime-project",
+		"/C/xampp/htdocs/kurs/Designer-page/assets/fonts",
+		"/C/xampp/htdocs/kurs/Designer-page/assets/less/less.js",
+		"/C/xampp/htdocs/kurs/Designer-page/test.html",
+		"/C/xampp/htdocs/kurs/WeatherApp/WeatherApp.sublime-project",
+		"/C/Users/Vasko/Desktop/Javascript_fundamentals/video4-Practice.html",
+		"/C/Users/Vasko/Desktop/Javascript_fundamentals/video8-arrays-and-matrices.html",
+		"/C/Users/Vasko/Desktop/Javascript_fundamentals/video7-functions-and-arrow-functions-exercises.html",
+		"/C/Users/Vasko/Desktop/Javascript_fundamentals/Video6-Functions-and-Arrow-Functions.html",
+		"/C/Users/Vasko/Desktop/Javascript_fundamentals/video5-Exercises.html",
+		"/C/Users/Vasko/Desktop/Javascript_fundamentals/video3-Control-flow-logic.html",
+		"/C/Users/Vasko/Desktop/Javascript_fundamentals/Calendar/calendar.html",
+		"/C/Users/Vasko/Desktop/PHP Course/06.01.2016/My stuff/httpd-vhosts.conf",
+		"/C/Users/Vasko/Desktop/index.html",
+		"/C/Users/Vasko/AppData/Roaming/Sublime Text 3/Packages/User/console.log.sublime-snippet",
+		"/C/Users/Vasko/Desktop/console.log.sublime-snippet",
+		"/C/Users/Vasko/Desktop/Javascript_fundamentals/test.html",
+		"/C/Users/Vasko/Desktop/Javascript_fundamentals/styles.css",
+		"/C/Users/Vasko/Desktop/Javascript_fundamentals/calendar.html",
+		"/C/Users/Vasko/Desktop/www.industria.tech/www.industria.tech/magic-solutions-becomes-industria/index.html",
+		"/C/Users/Vasko/Desktop/www.industria.tech/www.industria.tech/assets/templates/industria/dist/js/jquery.event.move.js",
+		"/C/Users/Vasko/Desktop/www.industria.tech/www.industria.tech/contact-form/includes/js/scripts.js",
+		"/C/Users/Vasko/Desktop/www.industria.tech/www.industria.tech/contact-form/images/ajax-loader.gif",
+		"/C/Users/Vasko/AppData/Roaming/Sublime Text 3/Packages/User/for.sublime-snippet",
+		"/C/Users/Vasko/AppData/Roaming/Sublime Text 3/Packages/ColorPicker/ColorPicker.sublime-settings",
+		"/C/Users/Vasko/AppData/Roaming/Sublime Text 3/Packages/User/proba.sublime-snippet",
+		"/C/Users/Vasko/Desktop/Javascript_fundamentals/Calendar/calendar.js",
+		"/C/Users/Vasko/Desktop/Javascript fundamentals/Calendar/calendar.js",
+		"/C/Users/Vasko/Desktop/Javascript fundamentals/calendar.html",
+		"/C/Users/Vasko/Desktop/Source Code HTML5 with JavaScript FD/Chapter 01/Simple JavaScript Example/External.js",
+		"/C/xampp/htdocs/kurs/WeatherApp-with_JS_pluggin/assets/less/styles.less",
+		"/C/xampp/htdocs/kurs/WeatherApp-with_JS_pluggin/assets/less/slick.less",
+		"/C/xampp/htdocs/kurs/WeatherApp-with_JS_pluggin/test.html",
+		"/C/Users/Vasko/Desktop/Source Code HTML5 with JavaScript FD/Chapter 01/Simple JavaScript Example/Test.html",
+		"/C/Users/Vasko/Desktop/Test JS/external.js",
+		"/C/Users/Vasko/Desktop/Test JS/test.html",
+		"/C/Users/Vasko/Desktop/Javascript fundamentals/video5-Exercises.html",
+		"/C/xampp/htdocs/kurs/WeatherApp-with_JS_pluggin/index.html",
+		"/C/xampp/htdocs/kurs/WeatherApp-with_JS_pluggin/assets/js/less.js",
+		"/C/Users/Vasko/Desktop/Source Code HTML5 with JavaScript FD/Chapter 04/Numbers/VariableMath.html",
+		"/C/Users/Vasko/Desktop/Source Code HTML5 with JavaScript FD/Chapter 04/Simple Variables/TestNullAndUndefined.html",
+		"/C/xampp/htdocs/kurs/WeatherApp-with_JS_pluggin/uniqa-test.html",
+		"/C/Users/Vasko/Desktop/slick-1.6.0/slick-1.6.0/index.html",
+		"/C/xampp/htdocs/kurs/WeatherApp-with_JS_pluggin/assets/js/slick.min.js",
+		"/C/Users/Vasko/AppData/Local/Temp/Temp1_slick-1.6.0.zip/slick-1.6.0/slick/slick.css",
+		"/C/xampp/htdocs/kurs/WeatherApp - with_JS_pluggin/index.html",
+		"/C/xampp/htdocs/kurs/WeatherApp - with_JS_pluggin/assets/less/styles.less",
+		"/C/xampp/htdocs/kurs/WeatherApp - with_JS_pluggin/uniqa-test.html",
+		"/C/xampp/htdocs/kurs/WeatherApp/test.html",
+		"/C/xampp/htdocs/kurs/WeatherApp/assets/images/widget-left1.png",
+		"/C/xampp/htdocs/kurs/WeatherApp/assets/fonts/Ubuntu_Light/stylesheet.css",
+		"/C/Users/Vasko/Desktop/New folder/EIF Logo basic (RGB) [Converted].svg",
+		"/C/xampp/htdocs/kurs/WeatherApp/assets/fonts/Ubuntu_Bold/stylesheet.css",
+		"/C/xampp/htdocs/kurs/WeatherApp/assets/fonts/fonts.css",
+		"/C/Users/Vasko/AppData/Local/Temp/Temp1_ubuntu.zip/Ubuntu/Ubuntu-Regular.svg",
+		"/C/Users/Vasko/AppData/Local/Temp/Temp1_ubuntu.zip/Ubuntu/stylesheet.css",
+		"/C/xampp/htdocs/kurs/WeatherApp/assets/images/social-media-button-SVG/1476146141_Facebook_Solid.svg",
+		"/C/xampp/htdocs/kurs/Golden_theme/assets/images/Colors-social-buttons-set/1476146141_Facebook_Solid.svg",
+		"/C/xampp/htdocs/kurs/WeatherApp/assets/styles/reset.css",
+		"/C/xampp/htdocs/kurs/WeatherApp/assets/js/less.js",
+		"/C/xampp/htdocs/kurs/Golden_theme/assets/js/less.js",
+		"/C/xampp/htdocs/kurs/Golden_theme/Golden_theme.sublime-project",
+		"/C/xampp/htdocs/kurs/Golden_theme/test.html",
+		"/C/Users/Vasko/AppData/Local/Temp/Temp1_Source Code HTML5 with JavaScript FD.zip/Chapter 01/Simple JavaScript Example/External.js",
+		"/C/xampp/htdocs/kurs/Golden_theme/assets/styles/hamburgers.css",
+		"/C/Users/Vasko/Desktop/1476706903_icon-111-search.svg",
+		"/C/Users/Vasko/Desktop/Colors-social-buttons-set/1476149307_Pinterest_Solid.svg",
+		"/C/Users/Vasko/Desktop/Colors-social-buttons-set/1476149276_40-google-plus.svg",
+		"/C/Users/Vasko/Desktop/Colors-social-buttons-set/1476149202_Twitter_Solid.svg",
+		"/C/Users/Vasko/Desktop/Colors-social-buttons-set/1476146141_Facebook_Solid.svg",
+		"/C/xampp/htdocs/kurs/Slice'n'Dice_online_shop/index.html",
+		"/C/xampp/htdocs/kurs/Slice'n'Dice_online_shop/styles/styles.less",
+		"/C/xampp/htdocs/kurs/Golden_theme/assets/styles/reset.css",
+		"/C/xampp/htdocs/kurs/Golden_theme/assets/fonts/montserrat/specimen_files/specimen_stylesheet.css",
+		"/C/xampp/htdocs/kurs/Slice'n'Dice_online_shop/less.js-master/benchmark/benchmark.less",
+		"/C/Users/Vasko/Desktop/1476146141_Facebook_Solid.svg",
+		"/C/Users/Vasko/Desktop/1476124183_Facebook.svg",
+		"/C/Users/Vasko/Desktop/1476123722_Pinterest.svg",
+		"/C/Users/Vasko/Desktop/1476124371_Twitter.svg",
+		"/C/Users/Vasko/Desktop/google-plus-circular-button.svg",
+		"/C/Users/Vasko/Desktop/1476125645_google.svg",
+		"/C/Users/Vasko/Desktop/1476124827_google-plus-outline.svg",
+		"/C/Users/Vasko/Desktop/1476117903_twitter_circle_color.svg",
+		"/C/Users/Vasko/Desktop/pinterest-logotype-circle.svg",
+		"/C/Users/Vasko/Desktop/twitter-circular-button.svg",
+		"/C/Users/Vasko/Desktop/facebook-logo-in-circular-button-outlined-social-symbol.svg",
+		"/C/Users/Vasko/Desktop/facebook.svg",
+		"/C/xampp/htdocs/kurs/Slice'n'Dice_online_shop/less.js-master/test/less/extend-selector.less",
+		"/C/Users/Vasko/AppData/Roaming/Sublime Text 3/Packages/User/ColorPicker.sublime-settings",
+		"/C/Users/Vasko/Desktop/site_test5/index.html",
+		"/C/Users/Vasko/AppData/Local/Temp/Temp1_webfontkit-20160915-092323.zip/stylesheet.css",
+		"/C/xampp/htdocs/kurs/Golden_theme/assets/styles/fonts.css",
+		"/C/xampp/htdocs/kurs/Slice'n'Dice_online_shop/test1.html",
+		"/C/xampp/htdocs/kurs/Slice'n'Dice_online_shop/less.js",
+		"/C/xampp/htdocs/kurs/Slice'n'Dice_online_shop/Slice'n'Dice_online_shop.sublime-project",
+		"/C/Users/Vasko/Desktop/fielduniqa.html",
+		"/C/Users/Vasko/Desktop/site_test5/styles/layout.css"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"D:\\Projects\\uniqa",
+			"<open folders>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\"></",
+			"1",
+			"\"></",
+			"></",
+			"1",
+			"\"></",
+			"sm",
+			"background",
+			"container",
+			"box-round",
+			"white",
+			";\n",
+			"#b6b6b6",
+			"flex:",
+			"ffffff",
+			"image-holder",
+			"h4",
+			"before",
+			"after",
+			"Medium",
+			"capi",
+			"div",
+			"content",
+			"#ff9900",
+			"ff9900",
+			"red",
+			"screenshot",
+			"img",
+			"\"\"",
+			"ul",
+			"li",
+			"img",
+			"primary",
+			"green",
+			"ffffff",
+			"white",
+			"after",
+			"Raleway",
+			"Open_Sans_Bold",
+			"Open_Sans",
+			"Aller_Display",
+			"background",
+			"\"#\"",
+			"\"\"",
+			"\"#\"",
+			"\"\"",
+			"html, body {\n//   height: 100%;\n// }\n\n// #main-wrapper {\n//   height: 100%;\n//   display: -webkit-flex;\n//   display: flex;\n//   flex-direction: column;\n// }\n\n// #main {\n//   flex: 1 0 auto;\n  \n// }",
+			"sticky",
+			"input",
+			");\n",
+			"rows",
+			"size",
+			"Size",
+			"size",
+			"Size",
+			"size",
+			"Size",
+			"size",
+			"Size",
+			"size",
+			"Size",
+			"size",
+			"Size",
+			"size",
+			"Size",
+			"size",
+			"Size",
+			"size",
+			"Size",
+			"size",
+			"Size",
+			"size",
+			"Size",
+			"size",
+			"Size",
+			"size",
+			"Size",
+			"size",
+			"Size",
+			"size",
+			"Size",
+			"size",
+			"Size",
+			"size",
+			"Size",
+			"size",
+			"Size",
+			"size",
+			"Size",
+			"size",
+			"Size",
+			"size",
+			"Size",
+			"size",
+			"Size",
+			"size",
+			"Size",
+			"size",
+			"Size",
+			"size",
+			"Size",
+			"size",
+			"(parseInt(",
+			"cristal",
+			"crista",
+			"pointY",
+			"pointX",
+			"number",
+			"50",
+			"array",
+			"i",
+			"count",
+			"add",
+			"x",
+			"input",
+			"x",
+			"let",
+			";\n",
+			"var",
+			"setInterval",
+			"banner",
+			" ",
+			"}",
+			"{",
+			")",
+			"console.log(",
+			"console.log(1)",
+			"console.log"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"div",
+			"link_font_color",
+			"link-font-color",
+			"href",
+			"src",
+			"href",
+			"border",
+			"a:::"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Designer-page.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"scr",
+				"www.industria.tech\\contact-form\\includes\\js\\scripts.js"
+			],
+			[
+				"reset",
+				"Golden_theme\\assets\\styles\\reset.css"
+			],
+			[
+				"",
+				"images\\BG_Image.sublime-project"
+			],
+			[
+				"index",
+				"uniqa\\contrib\\news\\templates\\news\\index.html"
+			],
+			[
+				"uniqa",
+				"uniqa\\templatetags\\uniqa_tags.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Vasko\\Documents\\Sublime Projects\\uniqa.sublime-project"
+			],
+			[
+				"xamp",
+				"C:\\xampp\\htdocs\\kurs\\less\\style.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 218.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

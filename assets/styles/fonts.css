@@ -1,0 +1,63 @@
+/* @font-face kit by Fonts2u (http://www.fonts2u.com) */ 
+@font-face {
+	font-family:"Aller Display";
+	src:url("../fonts/Aller_Display/AllerDisplay.eot?") format("eot"),
+		url("../fonts/Aller_Display/AllerDisplay.woff") format("woff"),
+		url("../fonts/Aller_Display/AllerDisplay.ttf") format("truetype"),
+		url("../fonts/Aller_Display/AllerDisplay.svg#AllerDisplay") format("svg");
+	font-weight:normal;
+	font-style:normal;
+}
+
+@font-face {
+	font-family:"Open Sans";
+	src:url("../fonts/Open_Sans/OpenSans-Regular.eot?") format("eot"),
+		url("../fonts/Open_Sans/OpenSans-Regular.woff") format("woff"),
+		url("../fonts/Open_Sans/OpenSans-Regular.ttf") format("truetype"),
+		url("../fonts/Open_Sans/OpenSans-Regular.svg#OpenSans") format("svg");
+	font-weight:normal;
+	font-style:normal;
+}
+
+
+
+
+@font-face {
+	font-family:"Open Sans Bold";
+	src:url("../fonts/Open_Sans_Bold/OpenSans-Bold.eot?") format("eot"),
+		url("../fonts/Open_Sans_Bold/OpenSans-Bold.woff") format("woff"),
+		url("../fonts/Open_Sans_Bold/OpenSans-Bold.ttf") format("truetype"),
+		url("../fonts/Open_Sans_Bold/OpenSans-Bold.svg#OpenSans-Bold") format("svg");
+	font-weight:normal;
+	font-style:normal;
+}
+
+
+@font-face {
+	font-family:"Raleway";
+	src:url("../fonts/Raleway/Raleway-Regular.eot?") format("eot"),
+		url("../fonts/Raleway/Raleway-Regular.woff") format("woff"),
+		url("../fonts/Raleway/Raleway-Regular.ttf") format("truetype"),
+		url("../fonts/Raleway/Raleway-Regular.svg#Raleway") format("svg");
+	font-weight:normal;
+	font-style:normal;
+}
+
+@font-face {
+	font-family:"Raleway Medium";
+	src:url("../fonts/Raleway_Medium/Raleway-Medium.eot?") format("eot"),
+		url("../fonts/Raleway_Medium/Raleway-Medium.woff") format("woff"),
+		url("../fonts/Raleway_Medium/Raleway-Medium.ttf") format("truetype"),
+		url("../fonts/Raleway_Medium/Raleway-Medium.svg#Raleway-Medium") format("svg");
+	font-weight:normal;
+	font-style:normal;}
+
+
+@font-face {
+	font-family:"Raleway Bold";
+	src:url("../fonts/Raleway_Bold/Raleway-Bold.eot?") format("eot"),
+		url("../fonts/Raleway_Bold/Raleway-Bold.woff") format("woff"),
+		url("../fonts/Raleway_Bold/Raleway-Bold.ttf") format("truetype"),
+		url("../fonts/Raleway_Bold/Raleway-Bold.svg#Raleway-Bold") format("svg");
+	font-weight:normal;
+	font-style:normal;}
